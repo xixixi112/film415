@@ -1,0 +1,9 @@
+.header-btn {
+  font-weight: 400;
+  font-size: 32px;
+  cursor: pointer;
+}
+.header-btn:hover {
+  color: #7E9680;
+}
+
